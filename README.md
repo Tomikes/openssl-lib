@@ -1,6 +1,6 @@
 # openssl-lib
 
-库文件放到八度云盘了，https://pan.baidu.com/s/1o8OoSrC
+库文件放到百度云盘了，https://pan.baidu.com/s/1o8OoSrC
 
 已经将openssl库编译好了，最新的。用于objective－c。
 
